@@ -55,7 +55,7 @@ Social_Media_Backend/
 ```
 
 ## Deployed URL
-The backend is deployed at: [Social Media](https://social-media-backend-fpwz.onrender.com);
+The backend is deployed at: [Social Media](https://social-media-backend-fpwz.onrender.com)
 
 ## Installation
 
